@@ -1,7 +1,6 @@
 
 # ### Install and import all necessary libraries
 # - pip install python-twitter
-# 
 
 import twitter
 import json
