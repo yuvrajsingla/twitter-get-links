@@ -1,4 +1,4 @@
-## Twitter link scrapper
+## Twitter link scraper
 
 A small script written in python to fetch links of specific domain from latest tweets. This script was created for educational purposes at a two hour MLIndia workshop. As an example, we fetch all links that belong to domain "sarahah.com" from latest tweets. 
 
